@@ -2,6 +2,8 @@
 
 一套通过实例学习 Zig 的教程，每个示例同时展示 Zig、Go、Rust 三种语言的写法，帮助有 Go/Rust 经验的开发者快速上手 Zig。
 
+内容是用 claude 参考 Go by Example 生成的。
+
 ## 目录
 
 | # | 主题 | 说明 |
